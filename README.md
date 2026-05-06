@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrRosstheGoat
 - 👀 I’m interested in ai/ml, web and app development
-- 🌱 I’m currently learning python,react,java,c++ and javascript
+- 🌱 I’m currently learning python,react and javascript
 - 📫 How to reach me ,ig handle..garethchitate
 - ⚡ Fun fact: live ,love...code
 
